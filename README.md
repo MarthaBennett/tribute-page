@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang=eng>
   <head><title id="title">A Tribute To Jacqueline Cochran</title></head>
   <main id="main">
@@ -26,9 +26,9 @@
       <li>1964: She flew an aircraft faster than any woman had before (1,429 miles per hour!).</li>
       <li>1965: Jacqueline was inducted into the International Aerospace Hall of Fame.</li>
       <li>1980: Jacqueline passed away in California, USA.</li>
-   </ul>
-   </p></div>  
+   </p></ul>
+   </div>  
   <div class="tribute-refer">
    To find out more about Jacqueline's life, <a href="https://www.britannica.com/biography/Jacqueline-Cochran" target="_blank" id="tribute-link">click here</a>
     </div>
-    </html>
+   
